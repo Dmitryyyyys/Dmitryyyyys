@@ -10,7 +10,6 @@
 I'm a  developer from Belarus, working at [@DmitriyS](https://github.com/Dmitryyyyys)  
 
 I'm interested in web development, games, algorithms.  
-I sometimes do pet projects in c and c++ that I enjoy.
 
 
 
