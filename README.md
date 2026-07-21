@@ -7,9 +7,10 @@
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sldmtry)
 
-I'm a  developer from Belarus, working at [@DmitriyS](https://github.com/Dmitryyyyys)  
+I'm a DevOps engineer from Belarus, currently working at [Gexateq](https://gexateq.com/).
 
-I'm interested in web development, games, algorithms.  
+Interested in cloud infrastructure, CI/CD, containers, and system reliability.
+Here you can find my projects.Welcome!
 
 ## 📚 My stack
 
