@@ -14,7 +14,7 @@ I'm interested in web development, games, algorithms.
 ## 📚 My stack
 
 ### Langs
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,java,html,css,js,ts,postgres,sqlite&perline=7" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,go,bash,postgres,sqlite&perline=7" />
 
 ### Frameworks / Tools
 <img src="https://skillicons.dev/icons?i=dotnet,unity,linux,githubactions,docker,git,bootstrap&perline=7" />
