@@ -7,7 +7,7 @@
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sldmtry)
 
-I'm a DevOps engineer from Belarus, currently working at [Gexateq](https://gexateq.com/).
+I'm a DevOps engineer with 2 years of experience and a strong focus on Go.
 
 Interested in cloud infrastructure, CI/CD, containers, and system reliability.
 
