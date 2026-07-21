@@ -10,6 +10,7 @@
 I'm a DevOps engineer from Belarus, currently working at [Gexateq](https://gexateq.com/).
 
 Interested in cloud infrastructure, CI/CD, containers, and system reliability.
+
 Here you can find my projects.Welcome!
 
 ## 📚 My stack
